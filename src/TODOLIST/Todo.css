@@ -1,0 +1,9 @@
+.Todo-ul {
+  border-bottom: 1px solid black;
+}
+
+.Todo-btn {
+  padding: 5px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
